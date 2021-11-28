@@ -22,6 +22,7 @@ Below are some projects I've worked on so far:
   - [Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience)
   
 - Machine Learning
+  - [Sparse Autoencoder](https://github.com/VivianGunawan/Sparse-Autoencoder)
   - [Support Vector Machines](https://github.com/VivianGunawan/SupportVectorMachine)
  
 - Web Applicaton
