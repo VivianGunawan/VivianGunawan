@@ -18,7 +18,8 @@ Below are some projects I've worked on so far:
 
 - Computer Vision
   - [Image Denoising](https://github.com/VivianGunawan/ImageDenoising)
-  - [Air Wrtiting](https://github.com/VivianGunawan/Air-Writing)
+  - [Air Writing](https://github.com/VivianGunawan/Air-Writing)
+  - [Hand Shape Regcognition with Kalman Filter]()
   - [Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience)
   
 - Machine Learning
