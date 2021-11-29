@@ -27,3 +27,8 @@ Below are some projects I've worked on so far:
  
 - Web Applicaton
   - [Food Friends](https://github.com/VivianGunawan/FoodFriends)
+
+- Object Oriented Design in Java
+  - [TicTacToe](https://github.com/VivianGunawan/TicTacToeOOP)
+  - [The Quest of Legends](https://github.com/VivianGunawan/TheQuestOfLegends)
+  - [Bank]()
