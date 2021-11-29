@@ -2,7 +2,7 @@
 
 My name is ***Vivian Gunawan***
 
-I have a 
+I graduated from Boston university 
 - Bachelor of Arts in Neuroscience 
 - Bachelor of Arts in Computer Science
 - Master of Science in Computer Science
