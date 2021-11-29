@@ -15,7 +15,7 @@ Below are some projects I've worked on so far:
   - [Connect Four](https://github.com/VivianGunawan/ConnectFour )
   - [Sudoku Solver](https://github.com/VivianGunawan/SudokuSolver)
   - [Rock Paper Scissors](https://github.com/VivianGunawan/RockPaperScissors)
-  - [Gomoku](https://github.com/VivianGunawan/Gomoku)
+  - [~~Gomoku~~](https://github.com/VivianGunawan/Gomoku) *Currently Private*
 
 - Computer Vision
   - [Image Denoising](https://github.com/VivianGunawan/ImageDenoising)
