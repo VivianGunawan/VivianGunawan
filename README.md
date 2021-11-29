@@ -31,4 +31,4 @@ Below are some projects I've worked on so far:
 - Object Oriented Design in Java
   - [TicTacToe](https://github.com/VivianGunawan/TicTacToeOOP)
   - [The Quest of Legends](https://github.com/VivianGunawan/TheQuestOfLegends)
-  - [Bank]()
+  - [Online Banking Application](https://github.com/VivianGunawan/Bank)
