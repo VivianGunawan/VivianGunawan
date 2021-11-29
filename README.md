@@ -11,27 +11,15 @@ I first started coding in ***2017***.
 
 Below are some projects I've worked on so far:
 
-- AI Game Solving
-  - [Connect Four](https://github.com/VivianGunawan/ConnectFour )
-  - [Sudoku Solver](https://github.com/VivianGunawan/SudokuSolver)
-  - [Rock Paper Scissors](https://github.com/VivianGunawan/RockPaperScissors)
-  - [~~Gomoku~~](https://github.com/VivianGunawan/Gomoku) *Currently Private*
+Computer Vision | AI Game Solving | Object Oriented Design in Java | Machine Learning | Data Science | Web Applicaton
+--------------- | --------------- | ------------------------------ | ---------------- | ------------ | --------------
+[Image Denoising](https://github.com/VivianGunawan/ImageDenoising) | [Connect Four](https://github.com/VivianGunawan/ConnectFour ) | [TicTacToe](https://github.com/VivianGunawan/TicTacToeOOP)| [Sparse Autoencoder](https://github.com/VivianGunawan/Sparse-Autoencoder) | [~~Analyzing Yelp Dataset~~]() *Currently Private* |[Food Friends](https://github.com/VivianGunawan/FoodFriends) 
+[Air Writing](https://github.com/VivianGunawan/Air-Writing) | [Sudoku Solver](https://github.com/VivianGunawan/SudokuSolver) | [The Quest of Legends](https://github.com/VivianGunawan/TheQuestOfLegends) | [Support Vector Machines](https://github.com/VivianGunawan/SupportVectorMachine)
+[Hand Shape Regcognition with Kalman Filter](https://github.com/VivianGunawan/KalmanFilter) | [Rock Paper Scissors](https://github.com/VivianGunawan/RockPaperScissors)|[Online Banking Application](https://github.com/VivianGunawan/Bank)|
+[Object Shape Analysis and Segmentation](https://github.com/VivianGunawan/ObjectSegmentation)| [~~Gomoku~~](https://github.com/VivianGunawan/Gomoku) *Currently Private*
+[Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience) |
 
-- Computer Vision
-  - [Image Denoising](https://github.com/VivianGunawan/ImageDenoising)
-  - [Air Writing](https://github.com/VivianGunawan/Air-Writing)
-  - [Hand Shape Regcognition with Kalman Filter](https://github.com/VivianGunawan/KalmanFilter)
-  - [Object Shape Analysis and Segmentation](https://github.com/VivianGunawan/ObjectSegmentation)
-  - [Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience)
   
-- Machine Learning
-  - [Sparse Autoencoder](https://github.com/VivianGunawan/Sparse-Autoencoder)
-  - [Support Vector Machines](https://github.com/VivianGunawan/SupportVectorMachine)
- 
-- Web Applicaton
-  - [Food Friends](https://github.com/VivianGunawan/FoodFriends)
 
-- Object Oriented Design in Java
-  - [TicTacToe](https://github.com/VivianGunawan/TicTacToeOOP)
-  - [The Quest of Legends](https://github.com/VivianGunawan/TheQuestOfLegends)
-  - [Online Banking Application](https://github.com/VivianGunawan/Bank)
+
+
