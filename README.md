@@ -1,13 +1,10 @@
 # Hi there! 
 
-My name is ***Vivian Gunawan***
-
 I graduated from Boston university 
-- Bachelor of Arts in Neuroscience 
-- Bachelor of Arts in Computer Science
 - Master of Science in Computer Science
+- Bachelor of Arts in Computer Science
+- Bachelor of Arts in Neuroscience 
 
-I first started coding in ***2017***.
 
 Below are some projects I've worked on so far:
 
