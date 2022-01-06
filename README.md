@@ -1,12 +1,6 @@
 # Hi there! 
 
-I graduated from Boston university 
-- Master of Science in Computer Science
-- Bachelor of Arts in Computer Science
-- Bachelor of Arts in Neuroscience 
-
-
-Below are some projects I've worked on so far:
+Project Directory
 
 Computer Vision | AI Game Solving | Object Oriented Design in Java | Machine Learning | Data Science | Web Applicaton
 --------------- | --------------- | ------------------------------ | ---------------- | ------------ | --------------
