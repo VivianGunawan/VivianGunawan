@@ -8,7 +8,8 @@ Computer Vision | AI Game Solving | Object Oriented Design in Java | Machine Lea
 [Air Writing](https://github.com/VivianGunawan/Air-Writing) | [Sudoku Solver](https://github.com/VivianGunawan/SudokuSolver) | [The Quest of Legends](https://github.com/VivianGunawan/TheQuestOfLegends) | [Support Vector Machines](https://github.com/VivianGunawan/SupportVectorMachine) | [Book Scraping](https://github.com/VivianGunawan/BookScraping)
 [Hand Shape Regcognition with Kalman Filter](https://github.com/VivianGunawan/KalmanFilter) | [Rock Paper Scissors](https://github.com/VivianGunawan/RockPaperScissors)|[Online Banking Application](https://github.com/VivianGunawan/Bank)|
 [Object Shape Analysis and Segmentation](https://github.com/VivianGunawan/ObjectSegmentation)| [Gomoku](https://github.com/VivianGunawan/Gomoku)
-[Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience) |
+[Facial expression analysis based on videos of presidential candidates](https://github.com/VivianGunawan/FacialExpressionAnalysis)
+[Mouse Movement Tracking](https://github.com/VivianGunawan/ComputerVisionToSupportNeuroscience) 
 [Wink](https://github.com/VivianGunawan/Wink) 
 
   
